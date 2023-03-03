@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vm_sockets.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
